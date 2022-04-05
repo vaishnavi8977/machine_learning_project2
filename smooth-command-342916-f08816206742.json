@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smooth-command-342916",
+  "private_key_id": "f08816206742409ccf32d1e8827949176096bac6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzn0kyZFLpQuhq\nPnp46LGtiLa+xRRYtuO8E7tHplfAK/hZFDvpXm+C9E0rufJZdjetMLvizzZl+nOc\nUyZ+2LARxQaRw3jcHJYpcrYnmpL2pA1ze/n/visZX1Gp4ATEcI9jOQIT+sDBKxZt\n6cGsggNfiav8JbUbEAGD4QmZdELNDm/Z/a7ngdjI3/kFxxi9dRlNaQI00RTc8+BP\n9f0zQL58okC4cnS6HdXeYzXTixXDOaO5ktENfmbkmbuhC/jT6dILun4dz+5vJ8MB\npFF1N+szgxHUgkS3Toe+ToomoaUn8Ds4nOI12SWfrkFCWOIEXIA7EczwrqxtatLf\nIgoPy7pHAgMBAAECggEAIxWs1XP1IezYus/jWjSRaAT5NQAHvmBS0UzFWvRp1XaB\nNt0V6rpwa5LOdAkJBmJp86E+QcoZpQerh1BSh5pJod7rLpOQyuWmiwgF/mxZ4mUe\n33zK0yJRBs6wg87m/3vA9i+PcVmcRt7kraloFAr9H68jccfnvRZ+RUUye8/SsHyZ\n+LMHb1V4JgfyFNoY0Xz0Q2xWD03K59FuTJlUq6Odw98K5/w/5G9ONakzB49HJEch\nNiyupLCxk94y503Wvu5PS/hXF6gyziDgUU8Ke7vKrL/stFFB1Pq4Lnlo+bjsRxm+\nNps3URDaHDBsHKktZhSdne+9veTEyILnZLMakE0A2QKBgQDzZjN1FLLsnLwfu9vF\njxRsjubqoOey9xy3fCGmDLcMrZ1CJcynUANB6lH3Q4zIeePMZuFU30mWm3VmeAxh\nBkhZEjYFNqbbthzl3XF+nRk+VCwe46wQRxwOCmy0+azT9kqSRR0XjFXjMnWrWKqb\npvRkYWvdsbJFBPBOfyKReI7jAwKBgQC869cuoxgMFHXCmDWlTZRqa/uNjkZpNHzS\n/lqBKvjHHgRmH8skVYBgib9bYpIdx3CmM2XaySChPPekBiBUVUdvXq1EkS5saMZr\nlimWp0c0NgVYpeIkEydF5yBWvirAwTcpjdvJN3VRKifXRBugCF9+2fYDxZCy5Yj6\nVW3G9OEGbQKBgQCr+hBtr3xk1rHNskysoFYMBkR+j8Zmm1e9BYY4707/NESjElYx\n+cTzc/8KOL5mgElGiYK5FzPFqH4hMr18aJYB6W4l7OGk6F4uxHKGxbWqZoruIGvY\n7IWUHiWFEczdz24NP6w4kT22VFb0BKg3ZpXTv0oZ0I5nWf/5Vrc0FfzPxQKBgQC4\nWuh8ITlpKFoWD9RhwAfxpfgvFcSOC2M3vm/xFk74d8lRIvtoNGt3SVRLyC/QEXxT\nI1rkmlpWHZmHHVdVFHcGLfylKYuEzOW7vShOVGR+hazH6fB4xZwQcc+z9hTgTmwX\nB9CPVagNETcZsOPIUgNmVSnmWleuy6DUsKLUgMhKLQKBgHtqYJcmshu+ubtzglhG\niI3v9chDhYU6qrbLeHM5sGU4RtwlVYcUhGkgjw96JzY8Ioyki5UPOr9hIRMHJwgc\n6iu/6KrFxjTcEZNmIoBg/DGpQVx/jXzg6AigCiSa2hYGWn6ni/3Swk95ms5Cu+ow\ngyT2mzRHNlR/R+pp/gtfjPTH\n-----END PRIVATE KEY-----\n",
+  "client_email": "yoga-680@smooth-command-342916.iam.gserviceaccount.com",
+  "client_id": "104754848789018197513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yoga-680%40smooth-command-342916.iam.gserviceaccount.com"
+}
